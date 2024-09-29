@@ -224,7 +224,7 @@ sections:
     title:
       type: TitleBlock
       text: This Is A Big Xcxcc
-      color: text-neutral
+      color: text-primary
   - title: Divider
     colors: bg-light-fg-dark
     styles:
