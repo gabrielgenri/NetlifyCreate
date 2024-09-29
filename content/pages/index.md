@@ -225,6 +225,9 @@ sections:
       type: TitleBlock
       text: This Is A Big Xcxcc
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
