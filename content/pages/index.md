@@ -219,7 +219,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: shadow
-    subtitle: xcxcc
+    subtitle: ''
     showExcerpt: false
   - title: Divider
     colors: bg-light-fg-dark
