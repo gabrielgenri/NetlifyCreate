@@ -223,7 +223,7 @@ sections:
     showExcerpt: false
     title:
       type: TitleBlock
-      text: This Is A Big Xcxcc
+      text: ''
       color: text-dark
       styles:
         self:
