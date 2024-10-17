@@ -85,7 +85,7 @@
         {
             "type": "Link",
             "label": "See Tutorials",
-            "altText": "",
+            "altText": "See Tutorials",
             "url": "/pricing",
             "showIcon": false,
             "icon": "arrowRight",
