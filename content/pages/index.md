@@ -19,7 +19,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
       - label: See Tutorials
@@ -262,7 +262,7 @@ sections:
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
@@ -690,7 +690,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -702,6 +702,17 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - title:
       text: Generic Section With A Form
       color: text-dark
