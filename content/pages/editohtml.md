@@ -83,7 +83,7 @@ sections:
     title:
       type: TitleBlock
       text: Generic section with a video
-      color: text-neutral
+      color: text-dark
       styles:
         self:
           textAlign: left
