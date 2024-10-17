@@ -10,16 +10,16 @@ sections:
       styles:
         self:
           textAlign: center
-    recentCount: 3
+    recentCount: 12
     showThumbnail: true
     showExcerpt: true
-    showDate: true
-    showAuthor: true
+    showDate: false
+    showAuthor: false
     actions: []
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
-    hoverEffect: shadow-plus-move-up
+    hoverEffect: thin-underline
     styles:
       self:
         justifyContent: center
