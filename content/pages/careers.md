@@ -158,7 +158,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: contacto
       color: text-dark
     subtitle: ''
     text: ''
