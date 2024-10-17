@@ -172,7 +172,7 @@ sections:
       fields:
         - type: TextFormControl
           name: Nombre y Apellido
-          label: Name
+          label: Nombre y Apellido
           hideLabel: true
           placeholder: Nombre y Apellido
           isRequired: true
