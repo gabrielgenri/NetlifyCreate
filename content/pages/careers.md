@@ -155,60 +155,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: contacto
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: nombre
-          label: Nombre y Apellido
-          hideLabel: true
-          placeholder: Nombre y Apellido
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: Email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: mensaje
-          label: Mensaje
-          hideLabel: true
-          placeholder: Mensaje
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Enviar
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
