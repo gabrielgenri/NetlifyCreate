@@ -218,7 +218,7 @@ sections:
           - pr-16
         justifyContent: center
         margin:
-          - mt-20
+          - mt-36
           - mb-36
           - ml-0
           - mr-0
