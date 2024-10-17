@@ -50,7 +50,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-    hoverEffect: shadow
+    hoverEffect: thick-underline
 slug: this-is-a-blog-post-with-related-posts
 isFeatured: false
 isDraft: false
