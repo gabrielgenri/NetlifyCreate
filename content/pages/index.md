@@ -219,7 +219,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: shadow
-    subtitle: ''
+    subtitle: dfg
     showExcerpt: false
     title:
       type: TitleBlock
