@@ -61,7 +61,7 @@
                 },
                 {
                     "label": "Netlify",
-                    "url": "/netlify",
+                    "url": "/editohtml",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
