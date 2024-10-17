@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /editohtml
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: /editohtml
         showIcon: true
         icon: arrowRight
         iconPosition: right
