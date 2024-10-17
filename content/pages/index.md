@@ -218,7 +218,7 @@ sections:
           - pr-16
         justifyContent: center
     type: FeaturedPostsSection
-    hoverEffect: shadow
+    hoverEffect: move-up
     subtitle: ''
     showExcerpt: false
     title:
