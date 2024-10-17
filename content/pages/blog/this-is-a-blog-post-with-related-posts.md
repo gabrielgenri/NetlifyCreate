@@ -39,7 +39,7 @@ bottomSections:
         self:
           textAlign: center
     recentCount: 2
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: false
     showDate: false
     showAuthor: false
