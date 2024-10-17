@@ -104,7 +104,7 @@ sections:
         textAlign: left
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: ''
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
