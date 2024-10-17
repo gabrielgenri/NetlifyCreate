@@ -19,7 +19,7 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
-    hoverEffect: shadow-plus-move-up
+    hoverEffect: thick-underline
     styles:
       self:
         justifyContent: center
