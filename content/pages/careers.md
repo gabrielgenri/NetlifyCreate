@@ -137,7 +137,7 @@ sections:
     actions:
       - label: Apply now
         url: /pricing
-        icon: chevronDown
+        icon: chevronBigLeft
         iconPosition: right
         style: primary
         type: Button
