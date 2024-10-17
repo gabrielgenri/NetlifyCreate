@@ -38,7 +38,7 @@ bottomSections:
       styles:
         self:
           textAlign: center
-    recentCount: 2
+    recentCount: 4
     showThumbnail: false
     showExcerpt: false
     showDate: false
