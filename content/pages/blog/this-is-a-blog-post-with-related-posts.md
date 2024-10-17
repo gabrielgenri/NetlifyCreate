@@ -41,8 +41,8 @@ bottomSections:
     recentCount: 2
     showThumbnail: true
     showExcerpt: false
-    showDate: true
-    showAuthor: true
+    showDate: false
+    showAuthor: false
     actions: []
     elementId: ''
     variant: three-col-grid
