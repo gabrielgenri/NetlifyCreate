@@ -220,6 +220,8 @@ sections:
         margin:
           - mt-20
           - mb-20
+          - ml-20
+          - mr-20
     type: FeaturedPostsSection
     hoverEffect: move-up
     subtitle: ''
