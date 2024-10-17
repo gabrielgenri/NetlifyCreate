@@ -84,7 +84,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Netlify",
             "altText": "Netlify",
             "url": "/netlify",
             "showIcon": false,
