@@ -178,7 +178,7 @@ sections:
           isRequired: true
           width: full
         - type: EmailFormControl
-          name: email
+          name: Email
           label: Email
           hideLabel: true
           placeholder: Your email
