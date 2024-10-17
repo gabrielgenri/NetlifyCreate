@@ -16,7 +16,7 @@ featuredImage:
       borderRadius: medium
 bottomSections: []
 slug: /netlify-tutorial
-isFeatured: true
+isFeatured: false
 seo:
   type: Seo
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
