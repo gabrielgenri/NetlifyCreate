@@ -8,8 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/img-placeholder.svg
   altText: Case study 3
   styles:
     self:
@@ -72,7 +71,7 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-neutral-fg-dark
 styles:
   self:
     padding:
@@ -84,7 +83,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: x-small
     flexDirection: col
 type: PostLayout
 ---
