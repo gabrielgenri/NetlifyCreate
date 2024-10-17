@@ -71,7 +71,7 @@
                     "type": "Link",
                     "label": "Facebook",
                     "altText": "Facebook",
-                    "url": "/pricing",
+                    "url": "/editohtml",
                     "showIcon": true,
                     "icon": "facebook",
                     "iconPosition": "left",
