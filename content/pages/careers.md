@@ -139,7 +139,7 @@ sections:
         url: /pricing
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         type: Button
     variant: toggle-list
     colors: bg-light-fg-dark
