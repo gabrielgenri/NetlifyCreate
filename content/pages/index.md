@@ -219,6 +219,7 @@ sections:
         justifyContent: center
         margin:
           - mt-9
+          - mb-20
     type: FeaturedPostsSection
     hoverEffect: move-up
     subtitle: ''
