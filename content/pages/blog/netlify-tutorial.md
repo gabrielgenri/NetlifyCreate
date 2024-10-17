@@ -30,7 +30,7 @@ styles:
 ---
 # Documentación de Netlify
 
-Aprenda a crear experiencias web rápidas y confiables con la plataforma componible preparada para empresas de [Netlify](https://docs.netlify.com/).
+#### Aprenda a crear experiencias web rápidas y confiables con la plataforma componible preparada para empresas de [Netlify](https://docs.netlify.com/).
 
 **¿Qué es Netlify?**
 
@@ -55,8 +55,4 @@ La plataforma componible de Netlify permite a los desarrolladores, equipos multi
 *   Adoptar las mejores prácticas de la arquitectura web componible
 
 *   Aplicar las mejores prácticas de seguridad
-
-
-
-
 
