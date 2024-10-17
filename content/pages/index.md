@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: /editohtml
         showIcon: true
         icon: arrowRight
         iconPosition: right
