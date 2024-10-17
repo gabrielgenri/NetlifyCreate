@@ -40,7 +40,7 @@ bottomSections:
           textAlign: center
     recentCount: 2
     showThumbnail: true
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     actions: []
