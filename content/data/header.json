@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Dropdown item",
-                    "url": "/",
+                    "url": "/Pricing",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
