@@ -56,11 +56,7 @@ sections:
       type: TitleBlock
     people:
       - content/data/person1.json
-      - content/data/person2.json
       - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -140,11 +136,12 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
-        icon: arrowRight
+        url: /pricing
+        icon: chevronBigLeft
         iconPosition: right
         style: primary
         type: Button
+        showIcon: false
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
