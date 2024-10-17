@@ -233,14 +233,6 @@ sections:
       styles:
         self:
           textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 73
-      url: /images/277436833_136420625570466_6441412147575483771_n.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
