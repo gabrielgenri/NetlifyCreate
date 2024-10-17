@@ -15,7 +15,7 @@ featuredImage:
     self:
       borderRadius: medium
 bottomSections: []
-slug: /blog/netlify-tutorial
+slug: /netlify-tutorial
 isFeatured: false
 seo:
   type: Seo
