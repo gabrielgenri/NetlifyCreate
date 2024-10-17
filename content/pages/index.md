@@ -54,12 +54,12 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 500k
@@ -70,7 +70,7 @@ sections:
           explicabo.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -103,7 +103,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -128,7 +128,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -140,7 +140,8 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - type: Button
+        label: Get started
         altText: ''
         url: /
         showIcon: false
@@ -148,10 +149,9 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-        type: Button
     badge:
       label: This is a badge
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -218,16 +218,24 @@ sections:
           - pr-16
         justifyContent: center
     type: FeaturedPostsSection
-    hoverEffect: shadow
+    hoverEffect: move-up
     subtitle: ''
     showExcerpt: false
     title:
       type: TitleBlock
-      text: This Is A Big Xcxcc
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/277436833_136420625570466_6441412147575483771_n.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
