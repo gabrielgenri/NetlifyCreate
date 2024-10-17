@@ -234,7 +234,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 67
       url: /images/277436833_136420625570466_6441412147575483771_n.jpg
   - title: Divider
     colors: bg-light-fg-dark
