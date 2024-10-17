@@ -218,7 +218,7 @@ sections:
           - pr-16
         justifyContent: center
         margin:
-          - mt-9
+          - mt-20
           - mb-20
     type: FeaturedPostsSection
     hoverEffect: move-up
