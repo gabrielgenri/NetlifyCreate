@@ -52,7 +52,7 @@ sections:
       subtitle:
         textAlign: center
 slug: netlify
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
