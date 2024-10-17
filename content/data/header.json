@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Pricing",
-                    "url": "/Pricing",
+                    "url": "/pricing",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
