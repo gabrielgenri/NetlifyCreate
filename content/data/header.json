@@ -61,7 +61,7 @@
                 },
                 {
                     "label": "Netlify",
-                    "url": "/",
+                    "url": "/netlify",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
