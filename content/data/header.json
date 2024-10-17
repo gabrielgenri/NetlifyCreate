@@ -84,9 +84,9 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
-            "altText": "See Tutorials",
-            "url": "/pricing",
+            "label": "Netlify",
+            "altText": "Netlify",
+            "url": "/netlify",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
