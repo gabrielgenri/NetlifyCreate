@@ -70,6 +70,10 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - title:
       text: Open positions
       color: text-dark
