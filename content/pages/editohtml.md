@@ -2,6 +2,37 @@
 type: PageLayout
 title: Edito HTML
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Generic section with a video
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Section with a video subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+        alignItems: center
+      subtitle:
+        textAlign: left
+    backgroundImage:
+      type: BackgroundImage
+      altText: ''
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 41
+      url: /images/277223943_159898986405142_3261307711063628548_n.jpg
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -79,37 +110,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-        alignItems: center
-      subtitle:
-        textAlign: left
-    backgroundImage:
-      type: BackgroundImage
-      altText: ''
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 41
-      url: /images/277223943_159898986405142_3261307711063628548_n.jpg
 slug: editohtml
 isDraft: false
 seo:
