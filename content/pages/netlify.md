@@ -52,7 +52,7 @@ sections:
       subtitle:
         textAlign: center
 slug: netlify
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: Netlify
