@@ -188,7 +188,7 @@ sections:
           name: mensaje
           label: Mensaje
           hideLabel: true
-          placeholder: Your message
+          placeholder: Mensaje
           width: full
       submitButton:
         type: SubmitButtonFormControl
