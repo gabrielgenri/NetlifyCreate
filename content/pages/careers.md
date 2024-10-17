@@ -174,7 +174,7 @@ sections:
           name: Nombre y Apellido
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Nombre y Apellido
           isRequired: true
           width: full
         - type: EmailFormControl
