@@ -109,6 +109,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/2024-10-08 12_47_24-Window.png
 slug: editohtml
 isDraft: false
 seo:
