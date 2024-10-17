@@ -186,7 +186,7 @@ sections:
           width: full
         - type: TextareaFormControl
           name: mensaje
-          label: Message
+          label: Mensaje
           hideLabel: true
           placeholder: Your message
           width: full
