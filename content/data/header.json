@@ -69,7 +69,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Facebook",
+                    "label": "/editohtml",
                     "altText": "Facebook",
                     "url": "/editohtml",
                     "showIcon": true,
