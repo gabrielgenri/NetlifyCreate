@@ -171,7 +171,7 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: Nombre y Apellido
+          name: nombre
           label: Nombre y Apellido
           hideLabel: true
           placeholder: Nombre y Apellido
