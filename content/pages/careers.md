@@ -136,7 +136,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
+        url: /pricing
         icon: arrowRight
         iconPosition: right
         style: primary
