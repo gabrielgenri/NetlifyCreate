@@ -86,7 +86,7 @@
             "type": "Link",
             "label": "Netlify",
             "altText": "Netlify",
-            "url": "/netlify",
+            "url": "netlify",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
