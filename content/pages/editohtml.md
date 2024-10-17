@@ -108,7 +108,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 41
       url: /images/277223943_159898986405142_3261307711063628548_n.jpg
 slug: editohtml
 isDraft: false
