@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "CONTENTFULL",
+                    "label": "Ayuda",
                     "url": "/ayuda",
                     "icon": "arrowRight",
                     "iconPosition": "right",
