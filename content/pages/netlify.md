@@ -18,7 +18,7 @@ sections:
     actions: []
     elementId: ''
     variant: three-col-grid
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     hoverEffect: thin-underline
     styles:
       self:
