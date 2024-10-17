@@ -3,7 +3,7 @@ type: PageLayout
 title: Netlify
 sections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
