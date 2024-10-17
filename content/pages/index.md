@@ -208,7 +208,7 @@ sections:
     showDate: true
     showAuthor: true
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -217,6 +217,11 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+        margin:
+          - mt-36
+          - mb-36
+          - ml-0
+          - mr-0
     type: FeaturedPostsSection
     hoverEffect: move-up
     subtitle: ''
@@ -228,14 +233,6 @@ sections:
       styles:
         self:
           textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/277436833_136420625570466_6441412147575483771_n.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
