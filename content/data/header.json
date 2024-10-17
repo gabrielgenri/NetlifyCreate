@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "CONTENTFULL",
-                    "url": "/",
+                    "url": "/ayuda",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
