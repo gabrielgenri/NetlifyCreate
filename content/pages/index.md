@@ -715,26 +715,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: >+
+    text: |+
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-
-
-      <form name="contact" method="POST" netlify><p><label>Your Name: <input
-      type="text" name="name" /></label></p><p><label>Your Email: <input
-      type="email" name="email" /></label></p><p><label>Your Role: <select
-      name="role\[]" multiple><option value="leader">Leader</option><option
-      value="follower">Follower</option></select></label></p><p><label>Message:
-      <textarea name="message"></textarea></label></p><p><button
-      type="submit">Send</button></p></form>
-
-
-      fgjdfjdfjdfjdfgjdfj
 
     media:
       fields:
