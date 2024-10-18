@@ -61,7 +61,7 @@
                 },
                 {
                     "label": "Contacto",
-                    "url": "/formulario",
+                    "url": "/contacto",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
