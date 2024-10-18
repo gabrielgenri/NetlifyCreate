@@ -33,7 +33,18 @@ export const FormBlock: Model = {
             label: 'Element ID',
             description: 'The unique ID used for id and name attributes, must not contain whitespace',
             required: true,
-            default: 'contact-form" netlify',
+            default: 'contact-form',
+            hidden: false,
+            localized: false,
+            group: 'settings'
+        },
+          {
+            type: 'string',
+            name: 'data-netlify',
+            label: 'data-netlify',
+            description: 'data-netlify',
+            required: true,
+            default: 'true',
             hidden: false,
             localized: false,
             group: 'settings'
