@@ -5,6 +5,7 @@ export const FormBlock: Model = {
     name: 'FormBlock',
     label: 'Form Block',
     labelField: 'elementId',
+    labelField: 'datanetlify',
     fields: [
         {
             type: 'list',
@@ -34,6 +35,17 @@ export const FormBlock: Model = {
             description: 'The unique ID used for id and name attributes, must not contain whitespace',
             required: true,
             default: 'contact-form',
+            hidden: false,
+            localized: false,
+            group: 'settings'
+        },
+         {
+            type: 'string',
+            name: 'datanetlify',
+            label: 'datanetlify',
+            description: 'datanetlify',
+            required: true,
+            default: 'true',
             hidden: false,
             localized: false,
             group: 'settings'
