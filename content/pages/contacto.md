@@ -43,7 +43,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-      elementId: contact-form
+      elementId: contact-form" netlify
       styles:
         self:
           padding:
