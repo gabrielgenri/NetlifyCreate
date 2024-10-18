@@ -38,17 +38,6 @@ export const FormBlock: Model = {
             localized: false,
             group: 'settings'
         },
-          {
-            type: 'string',
-            name: 'data-netlify',
-            label: 'data-netlify',
-            description: 'data-netlify',
-            required: true,
-            default: 'true',
-            hidden: false,
-            localized: false,
-            group: 'settings'
-        },
         {
             type: 'style',
             name: 'styles',
