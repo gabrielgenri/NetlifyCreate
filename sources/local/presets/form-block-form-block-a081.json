@@ -8,9 +8,9 @@
                 "fields": [
                     {
                         "name": "name",
-                        "label": "Name",
+                        "label": "Nombre y Apellido",
                         "hideLabel": true,
-                        "placeholder": "Your name",
+                        "placeholder": "Nombre y Apellido",
                         "isRequired": true,
                         "width": "full",
                         "$$type": "TextFormControl"
@@ -19,23 +19,23 @@
                         "name": "email",
                         "label": "Email",
                         "hideLabel": true,
-                        "placeholder": "Your email",
+                        "placeholder": "Email",
                         "isRequired": true,
                         "width": "full",
                         "$$type": "EmailFormControl"
                     },
                     {
                         "name": "message",
-                        "label": "Message",
+                        "label": "Mensage",
                         "hideLabel": true,
-                        "placeholder": "Your message",
+                        "placeholder": "Mensage",
                         "isRequired": null,
                         "width": "full",
                         "$$type": "TextareaFormControl"
                     }
                 ],
                 "submitButton": {
-                    "label": "Submit",
+                    "label": "Enviar",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -44,6 +44,7 @@
                     "$$type": "SubmitButtonFormControl"
                 },
                 "elementId": "contact-form",
+                 "datanetlify": "true",
                 "styles": {
                     "self": {
                         "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
