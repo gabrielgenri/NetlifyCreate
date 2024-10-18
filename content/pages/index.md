@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
+    text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
@@ -19,22 +19,26 @@ sections:
 
       ```
 
-      <form name="contact" method="POST" netlify><p><label>Your Name: <input
-      type="text" name="name" /></label></p><p><label>Your Email: <input
-      type="email" name="email" /></label></p><p><label>Your Role: <select
-      name="role[]" multiple><option value="leader">Leader</option><option
-      value="follower">Follower</option></select></label></p><p><label>Message:
-      <textarea name="message"></textarea></label></p><p><button
-      type="submit">Send</button></p></form>
+      <form name="contact" method="POST" netlify>
 
+      <p><label>Your Name: <input type="text" name="name" /></label></p>
 
+      <p><label>Your Email: <input type="email" name="email" /></label></p>
 
-      ```
+      <p><label>Your Role: <select name="role[]" multiple><option
+      value="leader">Leader</option><option
+      value="follower">Follower</option></select></label></p>
 
+      <p><label>Message: <textarea name="message"></textarea></label></p>
 
+      <p><button type="submit">Send</button></p>
+
+      </form>
 
 
       ...............
+
+      ```
 
 
       `<form name="contact" method="POST" netlify><p><label>Your Name: <input
@@ -44,11 +48,6 @@ sections:
       value="follower">Follower</option></select></label></p><p><label>Message:
       <textarea name="message"></textarea></label></p><p><button
       type="submit">Send</button></p></form>`
-
-
-
-
-
     actions:
       - label: Get started
         altText: ''
