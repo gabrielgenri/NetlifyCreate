@@ -43,6 +43,7 @@
                     "elementId": null,
                     "$$type": "SubmitButtonFormControl"
                 },
+                "data-netlify": "true",
                 "elementId": "contact-form",
                 "styles": {
                     "self": {
