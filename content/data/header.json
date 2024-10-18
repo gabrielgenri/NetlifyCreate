@@ -60,7 +60,7 @@
                     "altText": "Pricing"
                 },
                 {
-                    "label": "/editohtml",
+                    "label": "Contacto",
                     "url": "/editohtml",
                     "icon": "arrowRight",
                     "iconPosition": "right",
