@@ -39,6 +39,7 @@ export default function FormBlock(props) {
                     : undefined,
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
+            data-netlify={('true')}
             name={elementId}
             id={elementId}
             onSubmit={handleSubmit}
