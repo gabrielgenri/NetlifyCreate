@@ -60,6 +60,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+    elementId: netlify
 slug: contacto
 isDraft: false
 seo:
