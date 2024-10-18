@@ -7,7 +7,7 @@ import SubmitButtonFormControl from './SubmitButtonFormControl';
 
 export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
-    const { fields = [], elementId,  datanetlify, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { fields = [], elementId, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
 
     if (fields.length === 0) {
         return null;
@@ -41,7 +41,6 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             id={elementId}
-            data-netlify={datanetlify}
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
